@@ -1,2 +1,2 @@
 1. There are 20 images of each class. There are 10 uppercase letter and 10 lowercase letters for each class.
-2. I collected the images by using a mouse and writing the letters oin the little webapp you created.ß
+2. I collected the images by using a mouse and writing the letters oin the little webapp you created.
